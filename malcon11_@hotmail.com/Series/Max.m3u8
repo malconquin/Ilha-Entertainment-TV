@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="A casa do Dragão" tvg-logo="https://images.justwatch.com/poster/316259668/s718/temporada-1.jpg",A casa do Dragão Ep 1
-https://drive.usercontent.google.com/download?id=17PHQzRwhRBC1ArGBH6SG25snjC64rUmc&export=download&authuser=0&confirm=t&uuid=76b4f9df-f168-4111-a0c5-2b54b359b0ed&at=APZUnTXDLB41DG5HT0QyhPsbsWer%3A1720953681197
-#EXTINF:-1 group-title="A casa do Dragão" tvg-logo="https://images.justwatch.com/poster/316259668/s718/temporada-1.jpg",A casa do Dragão Ep 2
-https://drive.usercontent.google.com/download?id=1-QX2RYW7Mhv48VfQavybXWbL5knMi5PJ&export=download&authuser=0&confirm=t&uuid=76b4f9df-f168-4111-a0c5-2b54b359b0ed&at=APZUnTXDLB41DG5HT0QyhPsbsWer%3A1720953681197
-#EXTINF:-1 group-title="A casa do Dragão" tvg-logo="https://images.justwatch.com/poster/316259668/s718/temporada-1.jpg",A casa do Dragão Ep 3
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/316259668/s718/temporada-1.jpg" group-title="A casa do Dragão",A casa do Dragão Ep 3
 https://drive.usercontent.google.com/download?id=1-T2aL0IJy0WGjBePIux8nndRAHqXloHL&export=download&authuser=0&confirm=t&uuid=76b4f9df-f168-4111-a0c5-2b54b359b0ed&at=APZUnTXDLB41DG5HT0QyhPsbsWer%3A1720953681197
-#EXTINF:-1 group-title="A casa do Dragão" tvg-logo="https://images.justwatch.com/poster/316259668/s718/temporada-1.jpg",A casa do Dragão Ep 4
+
 https://drive.usercontent.google.com/download?id=1-u4igpi6tb0-vuma0sDNgt0Khugd-_k1&export=download&authuser=0&confirm=t&uuid=76b4f9df-f168-4111-a0c5-2b54b359b0ed&at=APZUnTXDLB41DG5HT0QyhPsbsWer%3A1720953681197
 #EXTINF:-1 group-title="A casa do Dragão" tvg-logo="https://images.justwatch.com/poster/316259668/s718/temporada-1.jpg",A casa do Dragão Ep 5
 https://drive.usercontent.google.com/download?id=1-vqE8HecEbvwZSw956H4tknnUQE-14Ap&export=download&authuser=0&confirm=t&uuid=76b4f9df-f168-4111-a0c5-2b54b359b0ed&at=APZUnTXDLB41DG5HT0QyhPsbsWer%3A1720953681197
@@ -53,3 +49,12 @@ https://drive.usercontent.google.com/download?id=1CxnNz9M0l9TTJUi_BTomgkceRE19AD
 https://drive.usercontent.google.com/download?id=11mzTGqM2opc5sxN2GShRmZ1bhZiyffR_&export=download&authuser=0&confirm=t&uuid=76b4f9df-f168-4111-a0c5-2b54b359b0ed&at=APZUnTXDLB41DG5HT0QyhPsbsWer%3A1720953681197
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/322686002/s718/the-last-of-us.jpg" group-title="The last of us",EP 9
 https://drive.usercontent.google.com/download?id=1qPDLnrnsJAVaCer2zaHap8wzZ0gJ0oeq&export=download&authuser=0&confirm=t&uuid=76b4f9df-f168-4111-a0c5-2b54b359b0ed&at=APZUnTXDLB41DG5HT0QyhPsbsWer%3A1720953681197
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/337882522/s166/welcome-to-derry.png" group-title="IT: Bem-vindo a Derry",IT: Bem-vindo a Derry Ep 1
+https://drive.usercontent.google.com/download?id=19swku9vPsHNQgFh7CKjnt1o0YpD7os2W
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/337882522/s166/welcome-to-derry.png" group-title="IT: Bem-vindo a Derry",IT: Bem-vindo a Derry Ep 2
+https://drive.usercontent.google.com/download?id=1h9Lt-pa9JzSAI_3-6y3O-IdGIOoJa1jn
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/337882522/s166/welcome-to-derry.png" group-title="IT: Bem-vindo a Derry",IT: Bem-vindo a Derry Ep 3
+https://drive.usercontent.google.com/download?id=1YIiRC1xfVfuB4g9yGHDY11WDz8qdgY5y
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/337882522/s166/welcome-to-derry.png" group-title="IT: Bem-vindo a Derry",IT: Bem-vindo a Derry Ep 4
+https://drive.usercontent.google.com/download?id=1EmKFv-VXJfENcNtVrGa02uLEwnWbHYZh
